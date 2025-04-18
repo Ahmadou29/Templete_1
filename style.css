@@ -14,3 +14,17 @@ header{
 span{
     color: yellow;
 }
+
+.span{
+    color: blue;
+}
+
+.img{
+    position: absolute;
+}
+
+.text{
+    position: relative;
+    transform: translateY(300PX);
+    transform: translateX(200PX) (-300PX);
+}
