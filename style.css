@@ -16,15 +16,14 @@ span{
 }
 
 .span{
-    color: blue;
+    color: rgb(6, 60, 91);
 }
 
-.img{
-    position: absolute;
+/* best our  */
+.d-flex{
+    justify-content: space-around;
 }
 
-.text{
-    position: relative;
-    transform: translateY(300PX);
-    transform: translateX(200PX) (-300PX);
+.bg-primary{
+    background-color: rgb(180, 220, 251) !important;
 }
