@@ -27,3 +27,14 @@ span{
 .bg-primary{
     background-color: rgb(180, 220, 251) !important;
 }
+
+/*  */
+
+.tail{
+    width: 70px;
+    height: 70px;
+}
+
+.bg-bleu{
+    background-color: blue;
+}
